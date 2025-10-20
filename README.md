@@ -44,8 +44,7 @@ The Store’s dataset contained 4 tables: Items, Sales, Wholesale cost price, an
 
 ### ERD Diagram
 
-
-
+![Entity Relationship Diagram of the Data Schema](images/ERD.png)
 
 
 
