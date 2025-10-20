@@ -20,9 +20,9 @@ Insights and Recommendations Are Provided on the Following Key Areas
 3. Category 3: Pricing & Discount Strategy
 4. Category 4: Wholesale Pricing & Category Mix
 
-Targeted SQL queries regarding various business questions can be found here [link].
+Targeted SQL queries regarding various business questions can be found here [View Full SQL Queries for Analysis](queries/SP_Analysis.sql)
 
-An interactive Power BI dashboard used to report and explore sales trends can be found here [link].
+An interactive Power BI dashboard used to report and explore sales trends can be found here [Dashboard](https://app.powerbi.com/groups/me/reports/0d99d238-05a2-423e-9e88-27d7f0f72c39/43021fbf0e61dc062973?experience=power-bi)
 
 ### Data Structure & Initial Checks
 
