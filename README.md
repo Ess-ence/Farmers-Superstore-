@@ -137,6 +137,9 @@ These figures suggest inefficient inventory turnover, particularly in short-shel
 
 - 95.22% sales are non-discounted, while 4.78% of sales are the ones with a discount. This suggests that current promotions lack clear targeting and may not align with customer buying behavior or timing.
 
+***Sales Revenue Per Discount Status***
+  ![Discount Status Pie Chart](images/Discount_Piechart.png)
+
 **2021 Price Surge Effect**
 
 - In the period 2020-2021, Lockdowns and restrictions disrupted transportation, labor availability, and imports, leading to a limited supply of fresh produce, which spiked retail prices and steadied them above the quantity demanded. In 2021, higher retail prices averaged a range of $1.5 to $1.9, almost at $2, temporarily boosting revenue as the market adjusted to supplier cost increases. However, as markets reopened post-pandemic in 2022- 2023 and transport resumed, supply stabilized, leading to slight price declines from pandemic peaks, explaining the rise in quantity sold in this period
