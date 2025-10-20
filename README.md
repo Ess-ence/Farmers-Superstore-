@@ -165,9 +165,13 @@ These figures suggest inefficient inventory turnover, particularly in short-shel
 
 **Price–Demand Misalignment in Capsicum**
 
-- While Capsicum has the highest procurement cost $14, it is relatively less demanded compared to other vegetables. This mismatch suggests the need for repricing or sourcing strategy adjustments to optimize profitability.
+- Wholesale Prices for each categories shows that the store has spent more on Capsicum $14K, Flower/Leafy Vegetables and Edible Mushrooms. However, pricing strategies of Capsicum and Edicble Mushroom makes them less demanded to generate higher sales revenue. This mismatch suggests the need for repricing or sourcing strategy adjustments to optimize profitability.
+
+📦 ***WholesalePrices(Costs) For each Vegetables during this period 2020-2023***
+
+![WholesalePrice Of Vegetable Categories](images/WholesalePrice_Cost.png)
+
   
-📦 [Visualization: Procurement Cost per Category / Cost Trend Over Time]
 
 ## Recommendations
 
