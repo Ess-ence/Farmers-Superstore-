@@ -71,7 +71,7 @@ Discounts are not actively impacting sales, as non-discounted products sell more
 
 ### Visualize the dashboard here. 
 
-![Farmers' 2022-2023 Sales Analysis](images/Interactive Dashboard .png)
+![Farmers' 2022-2023 Sales Analysis](images/Interactive_Dashboard.png)
 
 
 
