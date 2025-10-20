@@ -84,7 +84,7 @@ Discounts are not actively impacting sales, as non-discounted products sell more
 - 2021 was the best-performing year, generating $155K in revenue, largely driven by higher retail prices that matched supplier cost increases. However, quantity sold was low and kept dropping till late 2022
 - However, by 2023, revenue dropped sharply to $79K. 2022 experienced a reduced trend of wholesale prices, which triggered retail prices to lower and quantity demanded to increase. However, in 2023, wholesale prices shot up, triggering retail prices to shoot up, but not high enough, hence quantity sold continues to rise due to lower prices. However, the store was spending increased wholesale costs due to the spike in prices.
 
-
+![Revenue Perfomance Trends By Year ](images/Revenue_year.png)
   
 **Profit Margin Remains Healthy at 34%**
   
