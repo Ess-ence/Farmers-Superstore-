@@ -133,7 +133,7 @@ FROM CategorySummary AS C
 CROSS JOIN Stats AS S;
 
 
------Whether discounts actually boost sales — in both volume (quantity sold) and revenue terms.
+-----Whether discounts actually boost sales â€” in both volume (quantity sold) and revenue terms.
 
 SELECT  
     Discount_Status,
@@ -329,3 +329,4 @@ WHERE Category_Name IS NULL;
 
 SELECT 
 FROM 
+
