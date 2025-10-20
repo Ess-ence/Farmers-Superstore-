@@ -130,6 +130,9 @@ These figures suggest inefficient inventory turnover, particularly in short-shel
 - There is a clear inverse correlation between retail price and sales volume
 - As average retail prices rose between 2021–2023, quantity sold decreased significantly, confirming that customers are highly price-sensitive.
 
+***Customer purchase behavior overtime based on quantity sold and price changes***
+  ![Quantity Sold vs Retail Prices Overtime](images/DemandXPrice.png)
+
 **Discounts Do Not Significantly Drive Sales**
 
 - 95.22% sales are non-discounted, while 4.78% of sales are the ones with a discount. This suggests that current promotions lack clear targeting and may not align with customer buying behavior or timing.
