@@ -112,12 +112,16 @@ Discounts are not actively impacting sales, as non-discounted products sell more
 **High Loss Categories Identified**
   
 Certain product categories recorded loss rates exceeding their sales growth:
+
 a)	Cabbage: 14% loss rate
 b)	Aquatic Tuberous Vegetables: 12% loss rate
 c)	Solanum: 7% loss rate
-These figures suggest inefficient inventory turnover, particularly in short-shelf-life items. Reducing the current loss rate by just 2–3% could potentially unlock $10–15K in recoverable profit annually, based on the 2023 sales levels.
 
-📉 [Visualization: Loss Rate vs. Sales Revenue by Category]
+***Categories in terms of their reveneu and levels of Loss rate***
+
+![Revenue vs Lossrate](images/Revenue_Lossrate.png)
+
+These figures suggest inefficient inventory turnover, particularly in short-shelf-life items. Reducing the current loss rate by just 2–3% could potentially unlock $10–15K in recoverable profit annually, based on the 2023 sales levels.
 
 ### Category 3: Pricing & Discount Effectiveness
 
