@@ -1,21 +1,25 @@
 # Farmers-Superstore - Guangzhou, China
 
 ## 📑 Table of Contents
-- [Project Overview](#project-overview)
-  - [Project Objective](#project-objective)
-  - [Data Structure & Initial Checks](#data-structure--initial-checks)
-  - [ERD Diagram](#erd-diagram)
-- [Executive Summary](#executive-summary)
-  - [Key Performance Snapshot (2020–2023)](#key-performance-snapshot-2020–2023)
-  - [Visualize the Dashboard](#visualize-the-dashboard-here)
-- [Insights Deep Dive](#insights-deep-dive)
-  - [Category 1: Sales Performance & Profitability](#category-1-sales-performance--profitability)
-  - [Category 2: Inventory & Loss Rate Analysis](#category-2-inventory--loss-rate-analysis)
-  - [Category 3: Pricing & Discount Effectiveness](#category-3-pricing--discount-effectiveness)
-  - [Category 4: Procurement Costs & Category Mix](#category-4-procurement-costs--category-mix)
-- [Recommendations](#recommendations)
-- [Assumptions and Caveats](#assumptions-and-caveats)
 
+1. [Project Overview](#project-overview)  
+   - [Project Objective](#project-objective)  
+   - [Data Structure & Initial Checks](#data-structure--initial-checks)  
+   - [ERD Diagram](#erd-diagram)  
+
+2. [Executive Summary](#executive-summary)  
+   - [Key Performance Snapshot (2020–2023)](#key-performance-snapshot-2020–2023)  
+   - [Dashboard Visualization](#visualize-the-dashboard-here)  
+
+3. [Insights Deep Dive](#insights-deep-dive)  
+   - [Category 1: Sales Performance & Profitability](#category-1-sales-performance--profitability)  
+   - [Category 2: Inventory & Loss Rate Analysis](#category-2-inventory--loss-rate-analysis)  
+   - [Category 3: Pricing & Discount Effectiveness](#category-3-pricing--discount-effectiveness)  
+   - [Category 4: Procurement Costs & Category Mix](#category-4-procurement-costs--category-mix)  
+
+4. [Recommendations](#recommendations)  
+
+5. [Assumptions and Caveats](#assumptions-and-caveats)
 
 
 ## Project Overview 
@@ -46,7 +50,8 @@ An interactive Power BI dashboard used to report and explore sales trends can be
 
 **Initial Data Quality Checks**
 
-Prior to analysis, the following validation steps were performed using SQL
+***Prior to analysis, the following validation steps were performed using SQL***
+
 - Checked for duplicate item codes across tables (none found).
 - Verified that all sales and cost entries matched valid ItemCode values.
 - Confirmed consistent date formats (YYYY-MM-DD).
@@ -101,7 +106,9 @@ Discounts are not actively impacting sales, as non-discounted products sell more
 - Between 2020 and 2023, Farmers Superstore’s total revenue reached $474K, but the sales trend showed a steady decline over time.
 - 2021 was the best-performing year, generating $155K in revenue, largely driven by higher retail prices that matched supplier cost increases. However, quantity sold was low and kept dropping till late 2022
 - However, by 2023, revenue dropped sharply to $79K. 2022 experienced a reduced trend of wholesale prices, which triggered retail prices to lower and quantity demanded to increase. However, in 2023, wholesale prices shot up, triggering retail prices to shoot up, but not high enough, hence quantity sold continues to rise due to lower prices. However, the store was spending increased wholesale costs due to the spike in prices.
-
+  
+****Revenue perfomance By year***
+  
 ![Revenue Perfomance Trends By Year ](images/Revenue_year.png)
   
 **Profit Margin Remains Healthy at 34%**
@@ -123,7 +130,7 @@ Discounts are not actively impacting sales, as non-discounted products sell more
 
 ### Category 2: Inventory & Loss Rate Analysis
 
-**Loss Rate Averages 9.43% Overall**
+ **Loss Rate Averages 9.43% Overall**
 
 - The average loss rate of 9.43%, which translates to a significant $15K+ was lost through spoilage, expiry, or handling inefficiencies, causing a substantial erosion of profit.
   
@@ -135,7 +142,7 @@ a)	Cabbage: 14% loss rate
 b)	Aquatic Tuberous Vegetables: 12% loss rate
 c)	Solanum: 7% loss rate
 
-***Categories in terms of their reveneu and levels of Loss rate***
+🍄 ***Categories in terms of their reveneu and levels of Loss rate***
 
 ![Revenue vs Lossrate](images/Revenue_Lossrate.png)
 
@@ -148,7 +155,7 @@ These figures suggest inefficient inventory turnover, particularly in short-shel
 - There is a clear inverse correlation between retail price and sales volume
 - As average retail prices rose between 2021–2023, quantity sold decreased significantly, confirming that customers are highly price-sensitive.
 
-***Customer purchase behavior overtime based on quantity sold and price changes***
+🧑‍🤝‍🧑 ***Customer purchase behavior overtime based on quantity sold and price changes***
 
   ![Quantity Sold vs Retail Prices Overtime](images/DemandXPrice.png)
 
@@ -156,7 +163,7 @@ These figures suggest inefficient inventory turnover, particularly in short-shel
 
 - 95.22% sales are non-discounted, while 4.78% of sales are the ones with a discount. This suggests that current promotions lack clear targeting and may not align with customer buying behavior or timing.
 
-***Sales Revenue Per Discount Status***
+💰 ***Sales Revenue Per Discount Status***
 
   ![Discount Status Pie Chart](images/Discount_Piechart.png)
 
@@ -176,7 +183,7 @@ These figures suggest inefficient inventory turnover, particularly in short-shel
 - Procurement analysis revealed that Capsicum ($14K) and Flower/Leafy Vegetables ($13K) represent the highest cost categories, due to perishability.
 - Flower/leafy vegetable is the most consumed, due to its lower price averaging $0.88 making the product a key margin influencer.
 
-***Vegetable Categories Plotted based on their quantity Demanded and Prices***
+🥬 ***Vegetable Categories Plotted based on their quantity Demanded and Prices***
 
   ![Scatter plot](images/ItemsDemandxPrice.png)
   
