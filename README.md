@@ -158,9 +158,9 @@ These figures suggest inefficient inventory turnover, particularly in short-shel
 - Procurement analysis revealed that Capsicum ($14K) and Flower/Leafy Vegetables ($13K) represent the highest cost categories, due to perishability.
 - Flower/leafy vegetable is the most consumed, due to its lower price averaging $0.88 making the product a key margin influencer.
 
-***Vegetable Categories Plotted based on their quantity Demanded and Prices
+***Vegetable Categories Plotted based on their quantity Demanded and Prices***
 
-  ![Scatter plot](images/Items Demand X Price .png)
+  ![Scatter plot](images/ItemsDemandxPrice.png)
   
 
 **Price–Demand Misalignment in Capsicum**
