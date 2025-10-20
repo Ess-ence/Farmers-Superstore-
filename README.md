@@ -97,8 +97,11 @@ Discounts are not actively impacting sales, as non-discounted products sell more
 **Item-Level Best Sellers**
 
 - Sales item leads include Broccoli at $38K, Lotus Root at $30K, and Xixia Mushroom at $30k emerged, which also doubles as a reliable margin contributor.
+
+📈***Top 10 Best Selling Vegetables***
   
-📈 [Visualization: Total Sales & Profit by Year / Top Performing Items]
+  ![Top 10 Best selling Vegetables](images/Top10_Items.png)
+
 
 ### Category 2: Inventory & Loss Rate Analysis
 
