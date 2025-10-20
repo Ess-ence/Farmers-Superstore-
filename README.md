@@ -1,5 +1,23 @@
 # Farmers-Superstore - Guangzhou, China
 
+## 📑 Table of Contents
+- [Project Overview](#project-overview)
+  - [Project Objective](#project-objective)
+  - [Data Structure & Initial Checks](#data-structure--initial-checks)
+  - [ERD Diagram](#erd-diagram)
+- [Executive Summary](#executive-summary)
+  - [Key Performance Snapshot (2020–2023)](#key-performance-snapshot-2020–2023)
+  - [Visualize the Dashboard](#visualize-the-dashboard-here)
+- [Insights Deep Dive](#insights-deep-dive)
+  - [Category 1: Sales Performance & Profitability](#category-1-sales-performance--profitability)
+  - [Category 2: Inventory & Loss Rate Analysis](#category-2-inventory--loss-rate-analysis)
+  - [Category 3: Pricing & Discount Effectiveness](#category-3-pricing--discount-effectiveness)
+  - [Category 4: Procurement Costs & Category Mix](#category-4-procurement-costs--category-mix)
+- [Recommendations](#recommendations)
+- [Assumptions and Caveats](#assumptions-and-caveats)
+
+
+
 ## Project Overview 
 
 Farmers Superstore is a mid-sized retail chain specializing in fresh produce and perishable goods, operating across several urban districts in southern China since 2019. Over the last 3 years, from 2020, Farmers Superstore has grown to serve over 50,000 monthly customers, and expanded its vegetable category portfolio from just two to 6, that is, tuberous vegetables, Cabbage, Edible Mushrooms, Flower/Leaf Vegetables, Capsicum, and Solanum, each containing a variety of fresh vegetables to cater to the diverse customer demographics. 
