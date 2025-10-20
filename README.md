@@ -8,7 +8,7 @@
    - [ERD Diagram](#erd-diagram)  
 
 2. [Executive Summary](#executive-summary)  
-   - [Key Performance Snapshot (2020–2023)](#key-performance-snapshot-2020–2023)  
+   - [Key Performance Snapshot (2020–2023)](#key-performance-snapshot-2020–2023)
    - [Dashboard Visualization](#visualize-the-dashboard-here)  
 
 3. [Insights Deep Dive](#insights-deep-dive)  
