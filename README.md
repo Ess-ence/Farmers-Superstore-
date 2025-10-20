@@ -131,6 +131,7 @@ These figures suggest inefficient inventory turnover, particularly in short-shel
 - As average retail prices rose between 2021–2023, quantity sold decreased significantly, confirming that customers are highly price-sensitive.
 
 ***Customer purchase behavior overtime based on quantity sold and price changes***
+
   ![Quantity Sold vs Retail Prices Overtime](images/DemandXPrice.png)
 
 **Discounts Do Not Significantly Drive Sales**
@@ -138,6 +139,7 @@ These figures suggest inefficient inventory turnover, particularly in short-shel
 - 95.22% sales are non-discounted, while 4.78% of sales are the ones with a discount. This suggests that current promotions lack clear targeting and may not align with customer buying behavior or timing.
 
 ***Sales Revenue Per Discount Status***
+
   ![Discount Status Pie Chart](images/Discount_Piechart.png)
 
 **2021 Price Surge Effect**
@@ -145,7 +147,9 @@ These figures suggest inefficient inventory turnover, particularly in short-shel
 - In the period 2020-2021, Lockdowns and restrictions disrupted transportation, labor availability, and imports, leading to a limited supply of fresh produce, which spiked retail prices and steadied them above the quantity demanded. In 2021, higher retail prices averaged a range of $1.5 to $1.9, almost at $2, temporarily boosting revenue as the market adjusted to supplier cost increases. However, as markets reopened post-pandemic in 2022- 2023 and transport resumed, supply stabilized, leading to slight price declines from pandemic peaks, explaining the rise in quantity sold in this period
 - In 2023, persistent wholesale Inflation, caused by fuel prices, fertilizer shortages, kept vegetable prices to start rising, but remained lower compared to the pre-pandemic periods, while quantity sold surged. This is why 2023 performed poorly in revenue. This signaled diminishing returns on price escalation strategies.
 
-💲 [Visualization: Retail Price vs. Quantity Sold / Discount Impact Analysis]
+💲 ***Wholesale Price Trends 2020-2023***
+
+ ![WholesalePrice Trends 2020-2023](images/Wholesaleprice_trends.png)
 
 ### Category 4: Procurement Costs & Category Mix
 
