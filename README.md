@@ -1,4 +1,4 @@
-# Farmers-Superstore - Guangzhou, China
+# Farmers-Superstore - China
 
 ## 📑 Table of Contents
 
@@ -74,14 +74,15 @@ The Store’s dataset contained 4 tables: Items, Sales, Wholesale cost price, an
 ## Executive Summary
 
 Between 2020 and 2023, Farmers Superstore achieved a total revenue of $474K and a net profit of $160K, representing a healthy 34% profit margin. 
-An average loss rate of 9.43% from the vegetables indicates significant value leakage from product spoilage and inefficiencies in stock handling. 
+An average loss rate of 9.43% from the vegetables indicates significant value leakage from product spoilage and inefficiencies in stock handling. However, without feedback on freshness or perceived quality, root causes could not be fully determined.
 2021 was the best performing revenue year with $155K, mostly contributed by high retail prices responding to suppliers’ high prices, while 2023 was the poorest performing year with only $79K revenue due to rise high-rising of prices that triggered quantity demanded to drop significantly. Sales revenue trend decreases over time overall.
 Cabbage, aquatic tuberous vegetables, and Solanium categories have higher loss rates than sales revenue; 14%, 12% and 7% respectively.
 Flowers/leafy vegetables are leading in demand due to relatively lower prices, while Solanum is the lowest vegetable category demanded, with a relatively high retail price. 
 Best-selling categories in revenue and with lower loss rates are flower/leafy vegetables, capsicum, and edible mushrooms. Capsicum and flower/leafy vegetables are the most significant contributors over time in revenue from 2021 to 2023
 Broccoli, Lotus Root, and Xixia Mushroom are the top-performing items, driving a large portion of total revenue.
 Capsicum wholesale prices are high, but it is relatively less in demand by people.
-Discounts are not actively impacting sales, as non-discounted products sell more than discounted products.  
+Discounts are not actively impacting sales, as non-discounted products sell more than discounted products. Lack of customer feedback made it impossible to understand why discounts were ineffective.
+Demand fluctuations for specific vegetables could not be correlated with customer perception or satisfaction trends due to data limitations.
 
 ### Key Performance Snapshot (2020–2023)
 
