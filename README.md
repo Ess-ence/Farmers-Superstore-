@@ -199,8 +199,14 @@ These figures suggest inefficient inventory turnover, particularly in short-shel
   
 
 ## Recommendations
-
-1.	**Optimize Pricing and Revenue Strategy**
+1. ***Implement a customer feedback collection system to enrich the dataset to provide deeper insight into pricing effectiveness, demand variability, and product quality perception.***
+   
+- Add QR codes on receipts or packaging linking to quick feedback forms.
+- Introduce digital surveys at checkout (in-store or online).
+- Launch a loyalty or membership program that tracks customer satisfaction alongside purchase behavior.
+- Use Natural Language Processing (NLP) in future iterations to analyze open-text feedback for sentiment and trends.
+  
+2.	**Optimize Pricing and Revenue Strategy**
    
 Rather than reactive pricing, use predictive models to anticipate cost changes and adjust prices gradually, protecting both profit and customer loyalty.
 
@@ -210,13 +216,13 @@ Rather than reactive pricing, use predictive models to anticipate cost changes a
 - Explore long-term supplier contracts for high-cost categories to stabilize procurement prices.
 Integrate cost data with sales performance to identify where margin compression is occurring due to rising supplier prices.
 
-3.	**Redesign Discount and Consumer Engagement Strategies**
+4.	**Redesign Discount and Consumer Engagement Strategies**
    
 - Discounts alone have not effectively driven sales, partly due to customer perceptions of reduced quality and lack of product knowledge. To boost the impact of discounts, highlighting the value and freshness of the vegetables through messaging and in-store displays will make discounts more appealing.
 - Resort to bundling vegetables with complementary products like sauces, grains, or spices to raise perceived usefulness.
 Lastly, the store should apply targeted discounts where price sensitivity is proven, based on past purchase data.
 
-4.	**Strengthen Supplier Relations and Cost Management**
+5.	**Strengthen Supplier Relations and Cost Management**
    
 - Negotiate long-term agreements and explore local supplier partnerships to reduce volatility in wholesale costs. Reliable sourcing ensures consistent pricing and product quality, supporting steady profit margins.
 
