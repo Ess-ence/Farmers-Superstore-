@@ -44,7 +44,7 @@ Insights and Recommendations Are Provided on the Following Key Areas
 
 Targeted SQL queries regarding various business questions can be found here [View Full SQL Queries for Analysis](queries/SP_Analysis.sql)
 
-An interactive Power BI dashboard used to report and explore sales trends can be found here [Dashboard](https://app.powerbi.com/groups/me/reports/0d99d238-05a2-423e-9e88-27d7f0f72c39/43021fbf0e61dc062973?experience=power-bi)
+An interactive Power BI dashboard used to report and explore sales trends can be found here [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWUzYmEzZjEtMjUxOS00NTEwLTlkOTctYmVlMDVhY2QzZWE3IiwidCI6IjEzNzNhNWUwLTJiYjgtNGI0Ni04OWY2LTBjMzc0YzIyNzg0ZCJ9)
 
 ### Data Structure & Initial Checks
 
